@@ -2,6 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ramos-681682194/)
 
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando ciência da computação na Universidade Federal Rural de Pernambuco.
+- 🌱 Apaixonado pelo desenvolvimento de jogos e de IAs.
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=Lexdian&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexdian&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
